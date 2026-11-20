@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-20T05:51:12Z",
+  "timestamp": "2026-11-20T05:54:56Z",
   "official_results": [
     {
       "id": "Q1",
@@ -15,7 +15,7 @@
       "answer_matched": true,
       "sources_matched": true,
       "passed": true,
-      "elapsed_seconds": 0.6009
+      "elapsed_seconds": 0.615
     },
     {
       "id": "Q2",
@@ -31,7 +31,7 @@
       "answer_matched": true,
       "sources_matched": true,
       "passed": true,
-      "elapsed_seconds": 0.0226
+      "elapsed_seconds": 0.0136
     },
     {
       "id": "Q3",
@@ -43,7 +43,7 @@
       "answer_matched": true,
       "sources_matched": true,
       "passed": true,
-      "elapsed_seconds": 0.0143
+      "elapsed_seconds": 0.0116
     },
     {
       "id": "Q4",
@@ -71,7 +71,7 @@
       "answer_matched": true,
       "sources_matched": true,
       "passed": true,
-      "elapsed_seconds": 0.0118
+      "elapsed_seconds": 0.0123
     }
   ],
   "official_all_passed": true,
