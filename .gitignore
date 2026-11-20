@@ -1,0 +1,33 @@
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Environment and Secrets
+.env
+*.local
+
+# Database & Storage
+chroma_db/
+chroma_db_test/
+*.db
+*.sqlite3
+
+# PDF & Data (Confidential Assessment Corpus - Excluded by Default)
+*.pdf
+data/*.pdf
+
+# HuggingFace & Torch Cache
+.cache/
+hf_cache/
+
+# Streamlit
+.streamlit/

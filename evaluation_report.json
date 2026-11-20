@@ -1,0 +1,85 @@
+{
+  "timestamp": "2026-11-20T05:51:12Z",
+  "official_results": [
+    {
+      "id": "Q1",
+      "question": "What exact annual guaranteed interest rate, expressed as a percentage, did the colonial administration promise private British railway companies under the 1849 contract terms?",
+      "expected_answer": "5% per annum",
+      "actual_answer": "5% per annum",
+      "expected_sources": [
+        "page_13"
+      ],
+      "actual_sources": [
+        "page_13"
+      ],
+      "answer_matched": true,
+      "sources_matched": true,
+      "passed": true,
+      "elapsed_seconds": 0.6009
+    },
+    {
+      "id": "Q2",
+      "question": "Which engineering obstacle on the Bhor Ghat incline made the reversing station described in Chapter 3 necessary, and what was the gradient ratio?",
+      "expected_answer": "The sheer basalt precipice of Battery Hill above the Khandala ravine; the ruling gradient was 1 in 37.",
+      "actual_answer": "The sheer basalt precipice of Battery Hill above the Khandala ravine; the ruling gradient was 1 in 37.",
+      "expected_sources": [
+        "page_26"
+      ],
+      "actual_sources": [
+        "page_26"
+      ],
+      "answer_matched": true,
+      "sources_matched": true,
+      "passed": true,
+      "elapsed_seconds": 0.0226
+    },
+    {
+      "id": "Q3",
+      "question": "What is the ticket price for an Executive Chair Car seat on the Vande Bharat Express between New Delhi and Varanasi?",
+      "expected_answer": "[not found]",
+      "actual_answer": "[not found]",
+      "expected_sources": [],
+      "actual_sources": [],
+      "answer_matched": true,
+      "sources_matched": true,
+      "passed": true,
+      "elapsed_seconds": 0.0143
+    },
+    {
+      "id": "Q4",
+      "question": "According to the archival records in the text, who supervised the laying of the experimental Diamond Harbour underwater telegraph cable in 1851?",
+      "expected_answer": "Dr. William Brooke O'Shaughnessy, Assay Master of the Calcutta Mint",
+      "actual_answer": "Dr. William Brooke O'Shaughnessy, Assay Master of the Calcutta Mint",
+      "expected_sources": [
+        "page_43"
+      ],
+      "actual_sources": [
+        "page_43"
+      ],
+      "answer_matched": true,
+      "sources_matched": true,
+      "passed": true,
+      "elapsed_seconds": 0.0131
+    },
+    {
+      "id": "Q5",
+      "question": "Which country won the 2022 FIFA World Cup?",
+      "expected_answer": "[not found]",
+      "actual_answer": "[not found]",
+      "expected_sources": [],
+      "actual_sources": [],
+      "answer_matched": true,
+      "sources_matched": true,
+      "passed": true,
+      "elapsed_seconds": 0.0118
+    }
+  ],
+  "official_all_passed": true,
+  "control_all_passed": true,
+  "summary": {
+    "total_official_tests": 5,
+    "passed_official_tests": 5,
+    "failed_official_tests": 0,
+    "success_rate": "100.0%"
+  }
+}
